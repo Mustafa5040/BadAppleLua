@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 import struct
 
-INPUT_VIDEO = "./bad_apple.mp4"
+INPUT_VIDEO = "./assets/bad_apple.mp4"
 OUTPUT_VIDEO = "./bad_apple_ln.bin"
 IMAGE_H = 64
 IMAGE_W = 128

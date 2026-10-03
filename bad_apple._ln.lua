@@ -1,5 +1,5 @@
 local VIDEO_BIN_PATH = "/SCRIPTS/BADAPPLE/bad_apple_ln.bin"
-local AUDIO_WAV_PATH = "/SCRIPTS/BADAPPLE/bad_apple_audio.wav"
+local AUDIO_WAV_PATH = "/SCRIPTS/BADAPPLE/bad_apple_audio_compressed.wav"
 local video_bin = nil
 local FPS = 15
 local start_time = nil
